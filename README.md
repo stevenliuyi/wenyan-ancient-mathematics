@@ -9,4 +9,4 @@ This repo includes implementations of a few ancient Chinese mathematical algorit
 
 It's only for fun!
 
-![](kaifangshu.png)
+![](開方術.png)
