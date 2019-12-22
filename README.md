@@ -1,6 +1,10 @@
-## *Kaifangshu* (開方術)
+## Ancient Chinese Mathematical Algorithms in *Wenyan*
 
-This is an implementation of *Kaifangshu* (Extraction of Square Roots/開方術) from the ancient Chinese mathematics book [*Jiuzhang Suanshu*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art) (The Nine Chapters on the Mathematical Art/九章算術) using [*wenyan*](https://github.com/LingDong-/wenyan-lang), an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) for the ancient Chinese.
+This repo includes implementations of a few ancient Chinese mathematical algorithms using [*wenyan*](https://github.com/LingDong-/wenyan-lang), an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) for the ancient Chinese.
+
+- *Kaifangshu*/開方術 (calculation of square roots)
+- *Gengxianjiansunshu*/更相減損術 (calculation of greatest common divisors)
+- *Dayanqiuyishu*/大衍求一術 (calculation of modular inverse)
 
 It's only for fun!
 
